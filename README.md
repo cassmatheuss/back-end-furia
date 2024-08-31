@@ -11,5 +11,7 @@ O serviço está funcionando em https://back-end-furia.onrender.com/emails, e po
 Para utilizar o app, é possível fazer as seguintes requisições:
 
 GET - /emails - QUERY PARAMS: size, page -  lista todos os emails
+
 GET - /emails/{id} - lista um email em específico
+
 POST - /emails - BODY: {name: "nome", email: "email", message: "mensagem"} - adiciona dados a lista
