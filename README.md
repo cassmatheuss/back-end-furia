@@ -5,7 +5,7 @@ Este repositório mostra um back-end simples que pode ser integrado à landing p
 Foi utilizado Typescript no Nestjs, na qual é um framework muito bom para construção de aplicações em clean architecture.
 
 # Serviço hospedado
-O serviço está funcionando em https://back-end-furia.onrender.com/emails, e pode parar de funcionar em pouco tempo, pois está utilizando o plano gratuito.
+O serviço está funcionando em https://back-end-furia.onrender.com, e pode parar de funcionar em pouco tempo, pois está utilizando o plano gratuito.
 
 # Rotas
 Para utilizar o app, é possível fazer as seguintes requisições:
